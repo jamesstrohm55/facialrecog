@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "caffemodel",
+        "imread",
+        "imshow",
+        "numpy",
+        "opencv",
+        "pbtxt",
+        "preds",
+        "prototxt",
+        "scikit",
+        "scipy"
+    ]
+}
